@@ -37,7 +37,7 @@
 	<a href="https://twitter.com/larvamolt"> twitter</a> ~
 	<a href="https://larvamolt.redbubble.com/"> redbubble</a> ~
 	<a href="https://larvamolt.uwu.ai"> carrd</a></th>
-	<th><div style="text-align:right;">code by: me </div></th>
+	<th><div style="text-align:right;">code by: <a href="https://github.com/LARVAMOLT/main/blob/main/toyhouse%20profile%20code.txt">me</a></div></th>
   </tr>
    
 </table>
