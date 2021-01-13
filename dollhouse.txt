@@ -1,0 +1,55 @@
+<table alt="open adoptables" style="width:600px;  border: 10px solid pink;
+  border-collapse: collapse; background-color: #ffe6f2; color: black;">
+  
+  <tr alt="intro" style="font-size:120%;">
+    <th alt="my name" style="text-align:center;" colspan="2">🌈 OPEN ADOPTS click to see their page</th>
+  </tr>
+  
+  <tr alt="$35 shelf" style="text-align:center;">
+  <td colspan="2" style="background-color: #c7b8ff; border: 5px solid pink; padding: 4px;">
+  $ 35 shelf
+  <a href="https://toyhou.se/9485588.-35-alien-bunny-adopt"><img alt="ice bunny" src="https://f2.toyhou.se/file/f2-toyhou-se/images/30174529_cL8QcktzyOlt6j0.png" width="100px"></a>
+  
+      <a href="https://toyhou.se/9395747.-35-armed-goth-cat-adopt"><img alt="armed goth cat" src="https://f2.toyhou.se/file/f2-toyhou-se/images/29911071_exc0cNDmjjiukGV.png" width="60px"></a>
+      
+      <a href="https://toyhou.se/9364325.-35-gay-rave-cat-adoptable"><img alt="rave cat" src="https://f2.toyhou.se/file/f2-toyhou-se/images/29815875_V0mi9G96xTQQBIM.png" width="90px"></a>
+      
+      <a href="https://toyhou.se/9400827.-35-pink-tiger-adoptable"><img alt="pink tiger" src="https://f2.toyhou.se/file/f2-toyhou-se/images/29926996_xdmbC0wPryKmGmP.png" width="70px"></a>
+      
+      <a href="https://toyhou.se/9383251.-35-rainbow-cat-adoptable"><img alt="pink tiger" src="https://f2.toyhou.se/file/f2-toyhou-se/images/29872335_mBVlY7pbmjxhciW.png" width="60px"></a>
+  
+  </td>
+  </tr>
+  
+  <tr alt="$20 shelf" style="text-align:center;">
+    <td colspan="2" style="background-color: #b8f4ff; border: 5px solid pink; padding:4px;">
+$ 20 shelf
+
+	<a href="https://toyhou.se/9383194.-20-blue-jester-adopt"><img alt="blue jester" src="https://larvamolt.uwu.ai/assets/images/gallery05/e918330c_original.png" width="100px"></a>
+    
+    <a href="https://toyhou.se/9383177.-20-green-jester-adopt"><img alt="green jester" src="https://larvamolt.uwu.ai/assets/images/gallery05/26478f40_original.png" width="100px"></a>
+   
+</td>
+  </tr>
+  
+  <tr alt="$5 shelf" style="text-align:center;">
+    <td colspan="2" style="background-color: #c0ffb8; border: 5px solid pink; padding:4px;">
+    $ 5 shelf
+    <a href="https://toyhou.se/9543527.-5-purple-cheeky-dragon"><img alt="cheeky dragon" src="https://f2.toyhou.se/file/f2-toyhou-se/images/30336632_AFBVDpzWei5NdWo.png" width="100px"></a>
+    
+   <a href="https://toyhou.se/9486567.-5-spider-bat-adopt"><img alt="spider bat" src="https://f2.toyhou.se/file/f2-toyhou-se/images/30177703_x28nQvtUlNsWbsm.png" width="80px"></a>
+        
+    <a href="https://toyhou.se/9539677.-5-pink-purple-hearts-adopt"><img alt="cheeky dragon" src="https://f2.toyhou.se/file/f2-toyhou-se/images/30326160_WYP4NMZZAr2hmhQ.png" width="90px"></a>
+    
+</td>
+  </tr>
+ 
+  <tr alt="outgoing" style="font-size:120%;">
+    <th><div style="text-align:left;"><a href="https://larvamolt.deviantart.com/">deviantArt</a> ~
+	<a href="https://twitter.com/larvamolt"> twitter</a> ~
+	<a href="https://larvamolt.redbubble.com/"> redbubble</a> ~
+	<a href="https://larvamolt.uwu.ai"> carrd</a></th>
+	<th><div style="text-align:right;">code by: <a href="https://github.com/LARVAMOLT">me</a></div></th>
+  </tr>
+   
+</table>
