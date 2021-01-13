@@ -1,0 +1,43 @@
+<table style="width:50%;  border: 10px solid pink;
+  border-collapse: collapse; background-color: #ffe6f2; color: black;">
+  
+  <tr alt="intro" style="font-size:120%;">
+    <th alt="my name" style="text-align:center;">LARVAMOLT</th>
+    <th alt="my pronouns">THEY THEM</th>
+  </tr>
+  
+  <tr alt="bio" style="text-align:left;">
+  <td colspan="2" style="border: 5px solid pink; padding: 10 25px;">
+	☮️ Hi! I'm Mars aka LARVAMOLT (they/them only). I sell adoptables, digital commissions, and <a href="https://larvamolt.com">physical spiked collars</a>.
+    <br>😺 Payment is handled through <a href="https://ko-fi.com/larvamolt">Ko-fi</a>, or CashApp by request.
+    <br>🌈 23 y.o. trans agender artist, you can read more about me <a href="https://larvamolt.uwu.ai/#bio">here</a>.
+	<br>💌 ALL ADOPTS folder is open to offers and haggling :)
+  </td>
+  </tr>
+  
+  <tr alt="folder buttons" style="text-align:center;">
+    <td colspan="2" style="border: 5px solid pink; padding:4px;">
+    <a href="https://toyhou.se/LARVAMOLT/characters/folder:1821360"><img src="https://larvamolt.uwu.ai/assets/images/image03.png" width="100px" alt="open adoptables"></a>
+	<a href="https://toyhou.se/LARVAMOLT/characters/folder:1821354"><img src="https://larvamolt.uwu.ai/assets/images/image04.png" width="100px" alt="three dollar sheep cats"></a>
+	<a href="https://toyhou.se/LARVAMOLT/characters/folder:1848520"><img src="https://larvamolt.uwu.ai/assets/images/image06.png" width="100px" alt="not for sale"></a>
+	<a href="https://toyhou.se/LARVAMOLT/characters/folder:1852674"><img src="https://larvamolt.uwu.ai/assets/images/image05.png" width="100px" alt="bought from other artists"></a>
+	<a href="https://toyhou.se/LARVAMOLT/characters/folder:1852105"><img src="https://larvamolt.uwu.ai/assets/images/image08.png" width="100px" alt="sold adoptables"></a></td>
+  </tr>
+  
+  <tr alt="external navigation" style="text-align:center;">
+    <td colspan="2" style="border: 5px solid pink;">
+	<a href="https://larvamolt.uwu.ai/#com"><img src="https://larvamolt.uwu.ai/assets/images/image10.png" width="150px" alt="price info"></a>
+	<a href="https://larvamolt.uwu.ai/#tos"><img src="https://larvamolt.uwu.ai/assets/images/image09.png" width="200px" alt="terms of service"></a>
+	<a href='https://ko-fi.com/K3K5257AY' target='_blank'><img alt='Buy Me a Coffee at ko-fi.com' width="140px" style='border:0px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0'/></a>
+	</td>
+  </tr>
+ 
+  <tr alt="outgoing" style="font-size:120%;">
+    <th><div style="text-align:left;"><a href="https://larvamolt.deviantart.com/">deviantArt</a> ~
+	<a href="https://twitter.com/larvamolt"> twitter</a> ~
+	<a href="https://larvamolt.redbubble.com/"> redbubble</a> ~
+	<a href="https://larvamolt.uwu.ai"> carrd</a></th>
+	<th><div style="text-align:right;">code by: me </div></th>
+  </tr>
+   
+</table>
