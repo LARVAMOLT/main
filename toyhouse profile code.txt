@@ -1,4 +1,4 @@
-<table style="width:50%;  border: 10px solid pink;
+<table style="width:600px;  border: 10px solid pink;
   border-collapse: collapse; background-color: #ffe6f2; color: black;">
   
   <tr alt="intro" style="font-size:120%;">
