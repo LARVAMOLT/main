@@ -1,5 +1,5 @@
 <table style="width:600px;  border: 10px solid pink;
-  border-collapse: collapse; background-color: #ffe6f2; color: black;">
+  border-collapse: collapse; background-color: #b8f4ff; color: black;">
   
   <tr alt="intro" style="font-size:120%;">
     <th alt="my name" style="text-align:center;">LARVAMOLT</th>
@@ -8,9 +8,9 @@
   
   <tr alt="bio" style="text-align:left;">
   <td colspan="2" style="border: 5px solid pink; padding: 10 25px;">
-	☮️ Hi! I'm Mars aka LARVAMOLT (they/them only). I sell adoptables, digital commissions, and <a href="https://larvamolt.com">physical spiked collars</a>.
+	☮️ Hi! I'm Mars aka LARVAMOLT (they/them). I sell adoptables, digital commissions, and <a href="https://larvamolt.com">physical spiked collars</a>.
     <br>😺 Payment is handled through <a href="https://ko-fi.com/larvamolt">Ko-fi</a>, or CashApp by request.
-    <br>🌈 italian/nicaraguan trans agender artist, more about me <a href="https://larvamolt.uwu.ai/#bio">here</a>.
+    <br>🌈 Trans nonbinary artist, more about me <a href="https://larvamolt.uwu.ai/#bio">here</a>.
 	<br>💌 ALL ADOPTS folder is open to offers and haggling :)
   </td>
   </tr>
@@ -31,6 +31,37 @@
 	<a href='https://ko-fi.com/K3K5257AY' target='_blank'><img alt='Buy Me a Coffee at ko-fi.com' width="140px" style='border:0px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0'/></a>
 	</td>
   </tr>
+ 
+  <tr alt="outgoing" style="font-size:120%;">
+    <th><div style="text-align:left;"><a href="https://larvamolt.deviantart.com/">deviantArt</a> ~
+	<a href="https://twitter.com/larvamolt"> twitter</a> ~
+	<a href="https://larvamolt.storenvy.com/collections/1941934-my-drawings-on-stuff"> art merch</a> ~
+	<a href="https://larvamolt.uwu.ai"> carrd</a> ~
+	<a href="https://ko-fi.com/larvamolt"> ko-fi</a></th>
+	<th><div style="text-align:right;">code by: <a href="https://github.com/LARVAMOLT">me</a></div></th>
+  </tr>
+   
+</table>
+
+<p>
+
+<table alt="ocs" style="width:600px;  border: 10px solid pink;
+  border-collapse: collapse; background-color: #ffe6f2; color: black;">
+  
+  <tr alt="intro" style="font-size:120%;">
+    <th alt="banner" style="text-align:center;" colspan="2">🌈 original characters ~ not for sale</th>
+  </tr>
+  
+  <tr alt="shelf" style="text-align:center;">
+  <td colspan="2" style="background-color: #c7b8ff; border: 5px solid pink; padding: 4px;">
+
+  <a href="https://toyhou.se/9410449.-pyuu"><img alt="pyuu" src="https://f2.toyhou.se/file/f2-toyhou-se/images/30377068_0yrI3hBB8MYhbNt.png" width="100px"></a>
+  
+  <a href="https://toyhou.se/11992704.lil-bong"><img alt="lil bong" src="https://f2.toyhou.se/file/f2-toyhou-se/images/37541021_DoAApbZ0CnAu1Iz.png" width="90px"></a>
+  
+  </td>
+  </tr>
+  
  
   <tr alt="outgoing" style="font-size:120%;">
     <th><div style="text-align:left;"><a href="https://larvamolt.deviantart.com/">deviantArt</a> ~
